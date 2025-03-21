@@ -1,7 +1,7 @@
 # 🚀 Hey there, I'm Abhijit! 👋
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/9614963a-3782-421b-b544-c38e57686eea" alt="Abhijit's Photo" width="300"/>
+  <img src="https://github.com/user-attachments/assets/a30b00e1-540d-41e6-8762-eac09dcb3c78" alt="Abhijit's Photo" width="450"/>
 </p>
 
 ## A Passionate Web Developer from India 🌍  
@@ -43,4 +43,4 @@
 
 ---
 
-# 🚀 Let's Connect & Build Cool Stuff Together! 🤝
+# 🚀 Let's Connect & Build Cool Stuff Together! 🤝  
